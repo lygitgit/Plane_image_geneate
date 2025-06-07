@@ -4,4 +4,4 @@ used for plane in garage image genate
 得到训练集图像以及mmdet标准格式的标注真值信息
 
 训练集图像：
-![block_1049_1529](https://github.com/user-attachments/assets/3fd377fe-a772-4bc7-b39f-826d028aa445)
+<img src="[https://github.com/user-attachments/assets/3fd377fe-a7826d028aa445](https://github.com/user-attachments/assets/3fd377fe-a772-4bc7-b39f-826d028aa445)" width="400">

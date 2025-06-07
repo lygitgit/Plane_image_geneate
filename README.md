@@ -7,3 +7,7 @@ used for plane in garage image genate
 
 <img src="https://github.com/user-attachments/assets/3fd377fe-a772-4bc7-b39f-826d028aa445" width="400">
 <img src="https://github.com/user-attachments/assets/26aabcf1-9e14-48c5-b4a3-705891d4b42e" width="400">
+
+SAM自动化对目标进行剪切和部件标注
+
+<img src="https://github.com/user-attachments/assets/e35ab821-c544-4a8b-91cc-6b582e0e02d8" width="600">

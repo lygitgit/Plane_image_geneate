@@ -21,8 +21,6 @@
 <img src="https://github.com/user-attachments/assets/3fd377fe-a772-4bc7-b39f-826d028aa445" width="400">
 <img src="https://github.com/user-attachments/assets/26aabcf1-9e14-48c5-b4a3-705891d4b42e" width="400">
 
-<img src="https://github.com/user-attachments/assets/3fd377fe-a772-4bc7-b39f-826d028aa445" width="400"> <img src="https://github.com/user-attachments/assets/26aabcf1-9e14-48c5-b4a3-705891d4b42e" width="400">
-
 ## 飞机部件自动标注生成
 
 采用SAM（segment anything模型）以及原始Dota数据集飞机的旋转框标注进行飞机掩码的提取，根据掩码的对称性（水平轴/垂直轴设置在不同位置求上下/左右翻折后重叠的面积占比），得到部件的位置，进行标注
